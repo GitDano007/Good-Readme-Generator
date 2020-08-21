@@ -36,6 +36,7 @@
                         message: "What is the Usage",
                         name: "licenses"
                     },
+                   
                     
                     {
                         type: "input",
@@ -43,12 +44,15 @@
                         name: "gitName"
                     },
 
+
+
                     {
                         type: "input",
                         message: "who is Contributing to your project?",
                         name: "contr"
                     },
 
+                    
                     {
                         type: "input",
                         message: "What kind of testing is used on your project??",
