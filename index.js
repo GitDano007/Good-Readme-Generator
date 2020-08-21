@@ -53,13 +53,13 @@ const questions = [
 
     {
         type: "input",
-        message: "What tests are used in your project?",
+        message: "What kind of testing is used on your project??",
         name: "Test"
     },
 
     {
         type: "input",
-        message: "What is your E-mail?",
+        message: "What is your E-mail to contact you at if I have Questions?",
         name: "email"
     },
     
