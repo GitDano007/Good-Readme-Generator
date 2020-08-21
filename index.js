@@ -23,11 +23,7 @@
                         name: "desc"
                     },    
                     
-                    {
-                        type: "input",
-                        message: "Give a table of contents for your project.",
-                        name: "table"
-                    },
+                    
                     
                     {
                         type: "input",
