@@ -19,7 +19,7 @@
                     
                     {
                         type: "input",
-                        message: "Give a discription of your project.",
+                        message: "Please give a discription of your project.",
                         name: "desc"
                     },    
                     
