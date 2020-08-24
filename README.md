@@ -30,5 +30,4 @@
                 manual testing 
 
 
-                
-<iframe src="https://drive.google.com/file/d/1iGqdweL4bttSL16pvdUjFEJ1NLanu3nH/preview" width="640" height="480"></iframe>
+  ![GoodReadmeGeneratorGIF](https://user-images.githubusercontent.com/64987180/91076546-88e96700-e5f4-11ea-9776-29975270ede2.gif)              
