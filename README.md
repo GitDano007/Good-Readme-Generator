@@ -30,6 +30,4 @@
                 manual testing 
 
                 
-<video width="320" height="240" controls>
-  <source src="[Untitled_.Aug.23.2020.11_10.AM (1).zip](https://github.com/GitDano007/Good-Readme-Generator/files/5115330/Untitled_.Aug.23.2020.11_10.AM.1.zip)" type="video/zip">
-</video>
+https://drive.google.com/file/d/1iGqdweL4bttSL16pvdUjFEJ1NLanu3nH/view?usp=sharing
